@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.skiko:skiko-awt-runtime-macos-arm64:0.7.50" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.jetbrains.skiko" artifactId="skiko-awt-runtime-macos-arm64" version="0.7.50" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.skiko/skiko-awt-runtime-macos-arm64/0.7.50/713c8da19e5a2919392f3f10acb1459665ed8a2b/skiko-awt-runtime-macos-arm64-0.7.50.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.skiko/skiko-awt-runtime-macos-arm64/0.7.50/5845de9f8cd39721e3384b77187c8ab0260d4e2c/skiko-awt-runtime-macos-arm64-0.7.50-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
