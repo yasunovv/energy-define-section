@@ -1,6 +1,7 @@
 # Программа для определения сечения для ЛЭП
 
-<img width="802" alt="скриншот" src="https://github.com/yasunovv/ff3fa1e04783e84ebcd20b29f3a45d27994c37569838df2ac9c708297190ebeb/assets/59529794/8629dbc9-b119-4ad4-84d3-fa2856415672">
+<img width="395" alt="image" src="https://github.com/yasunovv/energy-define-section/assets/59529794/b6650b7e-de05-401d-a7e2-e8f77896604f">
+
 
 # Запуск
 Существует два способа запустить программу:
